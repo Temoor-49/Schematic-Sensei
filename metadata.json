@@ -1,0 +1,7 @@
+{
+  "name": "SchematicSensei",
+  "description": "An AI-powered electrical engineering assistant for analyzing, explaining, and debugging electronic schematics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
